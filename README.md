@@ -1,6 +1,6 @@
 # **Pima Indians Diabetes Prediction**
 
-![Diabetes Prediction](diabetes.jpeg)
+![Diabetes Prediction](diabetes.jpg)
 
 ## 🚀 **Objective**
 The goal of this project is to predict whether a patient has **diabetes** (Outcome: 1) or not (Outcome: 0) based on various medical measurements using machine learning models.
